@@ -10,7 +10,7 @@
 		"build": "gulp"
 	},
 	"dependencies": {
-		"canvas": "^2.8.0",
+		"canvas": "^3.1.0",
 		"decode-gif": "^1.0.1",
 		"gif-encoder-2": "github:AlipBot/gif-encoder-2_transparent",
 		"gm": "^1.23.1"
